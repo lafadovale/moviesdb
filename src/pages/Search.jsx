@@ -39,5 +39,3 @@ const Search = () => {
 };
 
 export default Search;
-
-// parei em tempo 59:15 (search dando erro 404 na API) - BUSCA NÃO FUNCIONA
